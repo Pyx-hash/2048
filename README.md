@@ -43,6 +43,7 @@ Move the tiles using the arrow keys, merge identical numbers, and try to reach *
 
 WARNING: If your browser blocks autoplay, music will start on your first key press.
 
+## Game Screenshot
 ![Game Screenshot](https://github.com/Pyx-hash/2048/blob/main/assets/Screenshot%20(1291).png?raw=true)
 
 ## License
