@@ -43,3 +43,8 @@ Move the tiles using the arrow keys, merge identical numbers, and try to reach *
 
 WARNING: If your browser blocks autoplay, music will start on your first key press.
 
+![Game Screenshot](assets/Screenshot(1291).png)
+
+## License
+This project is for educational and personal use.
+Feel free to modify and expand!
